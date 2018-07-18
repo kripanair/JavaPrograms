@@ -1,4 +1,4 @@
-package com.self.practice.designPatterns.behavioralDesignPattern;
+package com.self.practice.designPatterns.behavioralDesignPattern.strategy;
 
 import java.util.ArrayList;
 import java.util.List;

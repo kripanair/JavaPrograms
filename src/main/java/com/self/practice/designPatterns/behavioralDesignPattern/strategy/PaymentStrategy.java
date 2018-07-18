@@ -1,4 +1,4 @@
-package com.self.practice.designPatterns.behavioralDesignPattern;
+package com.self.practice.designPatterns.behavioralDesignPattern.strategy;
 
 /**
  * Created by krinair on 16/07/18.
